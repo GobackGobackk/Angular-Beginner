@@ -28,3 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## 登入頁面 切版練習
 ![image](https://github.com/GobackGobackk/Angular-Beginner/blob/main/pic/pic.png)
+參考: https://youtu.be/rwTMBmnIHcY
